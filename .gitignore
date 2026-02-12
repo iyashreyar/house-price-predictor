@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+env/
+venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Model files (optional if large)
+*.pkl
+*.joblib
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System
+.DS_Store
