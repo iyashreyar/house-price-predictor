@@ -10,6 +10,7 @@ venv/
 # Model files (optional if large)
 *.pkl
 *.joblib
+!model/model.pkl
 
 # Jupyter
 .ipynb_checkpoints/
